@@ -6,12 +6,12 @@
         "cities": [
           {
             "name": "Sydney, Australia",
-            "imageUrl": "enter_your_image_for_sydney.jpg",
+            "imageUrl": "https://www.seabourn.com/content/sbn/us/en/cruise-destinations/australia-new-zealand-cruises/australia-new-zealand-ports/sydney-australia-syd/_jcr_content/root/container/hero/image.coreimg.jpeg/1659653089097/syd1.jpeg",
             "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
           },
           {
             "name": "Melbourne, Australia",
-            "imageUrl": "enter_your_image_for_melbourne.jpg",
+            "imageUrl": "https://i.insider.com/5c520adfbde70f4492582334?width=800&format=jpeg&auto=webp",
             "description": "A cultural hub famous for its art, food, and diverse neighborhoods."
           }
         ]
@@ -22,12 +22,12 @@
         "cities": [
           {
             "name": "Tokyo, Japan",
-            "imageUrl": "enter_your_image_for_tokyo.jpg",
+            "imageUrl": "https://media.cntraveller.com/photos/6343df288d5d266e2e66f082/16:9/w_6000,h_3375,c_limit/tokyoGettyImages-1031467664.jpeg",
             "description": "A bustling metropolis blending tradition and modernity, famous for its cherry blossoms and rich culture."
           },
           {
             "name": "Kyoto, Japan",
-            "imageUrl": "enter_your_image_for_kyoto.jpg",
+            "imageUrl": "https://i0.wp.com/handluggageonly.co.uk/wp-content/uploads/2017/05/iStock-509472000.jpg?fit=1600%2C1067&ssl=1",
             "description": "Known for its historic temples, gardens, and traditional tea houses."
           }
         ]
@@ -38,12 +38,12 @@
         "cities": [
           {
             "name": "Rio de Janeiro, Brazil",
-            "imageUrl": "enter_your_image_for_rio.jpg",
+            "imageUrl": "https://voyeglobal.com/wp-content/uploads/2025/02/thumbnail-1.jpeg",
             "description": "A lively city known for its stunning beaches, vibrant carnival celebrations, and iconic landmarks."
           },
           {
             "name": "São Paulo, Brazil",
-            "imageUrl": "enter_your_image_for_sao-paulo.jpg",
+            "imageUrl": "https://www.mensjournal.com/.image/t_share/MTk2MTM3MzYwNDM3OTQ1ODYx/saopaulo.jpg",
             "description": "The financial hub with diverse culture, arts, and a vibrant nightlife."
           }
         ]
@@ -53,13 +53,13 @@
       {
         "id": 1,
         "name": "Angkor Wat, Cambodia",
-        "imageUrl": "enter_your_image_for_angkor-wat.jpg",
+        "imageUrl": "https://cdn.britannica.com/56/122156-050-F5B469C8/overview-complex-Angkor-Wat-Cambodia.jpg",
         "description": "A UNESCO World Heritage site and the largest religious monument in the world."
       },
       {
         "id": 2,
         "name": "Taj Mahal, India",
-        "imageUrl": "enter_your_image_for_taj-mahal.jpg",
+        "imageUrl": "https://media.architecturaldigest.com/photos/67acb9b0339bcbaaadeb91b5/1:1/w_4000,h_4000,c_limit/GettyImages-873536102.jpg",
         "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
       }
     ],
@@ -67,13 +67,13 @@
       {
         "id": 1,
         "name": "Bora Bora, French Polynesia",
-        "imageUrl": "enter_your_image_for_bora-bora.jpg",
+        "imageUrl": "https://www.discover-the-world.com/app/uploads/2024/09/french-polynesia-bora-bora-nui-aerial-view-astk.jpg",
         "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
       },
       {
         "id": 2,
         "name": "Copacabana Beach, Brazil",
-        "imageUrl": "enter_your_image_for_copacabana.jpg",
+        "imageUrl": "https://travel.usnews.com/images/GettyImages-1295425390.jpg",
         "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views."
       }
     ]
